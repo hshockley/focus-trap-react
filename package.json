@@ -1,5 +1,5 @@
 {
-  "name": "focus-trap-react",
+  "name": "ft-react",
   "version": "1.0.0",
   "description": "A React component that traps focus.",
   "main": "dist/focus-trap-react.js",
@@ -38,9 +38,9 @@
   "author": "David Clark",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davidtheclark/focus-trap-react/issues"
+    "url": "https://github.com/hshockley/focus-trap-react/issues"
   },
-  "homepage": "https://github.com/davidtheclark/focus-trap-react#readme",
+  "homepage": "https://github.com/hshockley/focus-trap-react#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-eslint": "^7.2.3",
