@@ -1,6 +1,6 @@
 {
   "name": "focus-trap-react",
-  "version": "6.0.0",
+  "version": "1.0.0",
   "description": "A React component that traps focus.",
   "main": "dist/focus-trap-react.js",
   "types": "index.d.ts",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidtheclark/focus-trap-react.git"
+    "url": "git+https://github.com/hshockley/focus-trap-react.git"
   },
   "files": [
     "dist",
@@ -58,7 +58,7 @@
     "react-dom": "^16.0.0"
   },
   "dependencies": {
-    "focus-trap": "^4.0.2"
+    "focus-trap": "^5.1.0"
   },
   "peerDependencies": {
     "react": "0.14.x || ^15.0.0 || ^16.0.0",
